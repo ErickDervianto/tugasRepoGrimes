@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Pecinta Uang</h1>
 </body>
 </html>
